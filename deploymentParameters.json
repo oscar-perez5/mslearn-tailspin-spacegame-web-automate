@@ -6,15 +6,15 @@
             "value": "-dev-"
         },
         "keyVaultName": {
-          "value": ""
+          "value": "tailspin-vault-19475"
         },
         "uniqueSuffix": {
-            "value": ""
+            "value": "11937"
         },
         "adminPassword": {
             "reference": {
               "keyVault": {
-                "id": ""
+                "id": "/subscriptions/c4774376-bc4c-48e6-93eb-c0ac26c6345d/resourceGroups/oscar-perez/providers/Microsoft.KeyVault/vaults/tailspin-vault-19475"
               },
               "secretName": "adminPassword"
             }
@@ -22,7 +22,7 @@
         "firstRun": {
             "reference": {
                 "keyVault": {
-                    "id": ""
+                    "id": "/subscriptions/c4774376-bc4c-48e6-93eb-c0ac26c6345d/resourceGroups/oscar-perez/providers/Microsoft.KeyVault/vaults/tailspin-vault-19475"
                 },
                 "secretName": "firstRun"
             }
